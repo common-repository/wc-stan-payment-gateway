@@ -1,0 +1,10 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+.stan-connect-checkout-text {
+	text-align: center;
+}
+#stan-pay.icon {
+	max-width: 44px;
+}
